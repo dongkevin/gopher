@@ -78,10 +78,10 @@ export default function Introduction() {
             <Box color="displayColor" as="span">
               Pharmacy Student.
             </Box>{' '}
-            A self-taught developer{' '}
+            Passionate about{' '}
             {isLargerThan800
-              ? 'with an\ninterest in Computer Science.'
-              : 'with an interest in Computer Science.'}
+              ? 'empowering others and collaboration'
+              : 'empowering others and collaboration.'}
           </Heading>
         </SlideFade>
 
@@ -91,12 +91,12 @@ export default function Introduction() {
           transition={{ enter: { duration: 0.4, delay: 0.9 } }}
         >
           <Text fontSize="display3" color="textSecondary">
-            🚀 Exploring fellowship opportunities in HEOR and medical affairs
+            🚀 Seeking fellowship opportunities in HEOR and medical affairs
             <br />
             <Stack isInline spacing={1}>
               <Box>🎓</Box>
               <Box>
-                P4 at the University of Texas at Austin College of Pharmacy
+                PharmD 2023 at the University of Texas at Austin College of Pharmacy
               </Box>
             </Stack>
           </Text>
