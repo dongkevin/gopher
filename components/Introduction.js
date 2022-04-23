@@ -91,12 +91,12 @@ export default function Introduction() {
           transition={{ enter: { duration: 0.4, delay: 0.9 } }}
         >
           <Text fontSize="display3" color="textSecondary">
-            🚀 Exploring opportunities in HEOR and medical affairs
+            🚀 Exploring fellowship opportunities in HEOR and medical affairs
             <br />
             <Stack isInline spacing={1}>
               <Box>🎓</Box>
               <Box>
-                Currently a P4 at the University of Texas at Austin College of Pharmacy
+                P4 at the University of Texas at Austin College of Pharmacy
               </Box>
             </Stack>
           </Text>
@@ -118,7 +118,7 @@ export default function Introduction() {
                 Github
               </Button>
             </Link>
-            <Link href="https://linkedin.com/in/abdulrcs" isExternal>
+            <Link href="https://linkedin.com/in/kevindong3" isExternal>
               <Button
                 leftIcon={<FaLinkedin color="#3CCF91" />}
                 position="static"
@@ -129,7 +129,7 @@ export default function Introduction() {
                 LinkedIn
               </Button>
             </Link>
-            <Link href="mailto:abdulrcs1@gmail.com" isExternal>
+            <Link href="mailto:kevindong@utexas.edu" isExternal>
               <Button
                 leftIcon={<FaEnvelope fill="#3CCF91" />}
                 transition="0.3s"
