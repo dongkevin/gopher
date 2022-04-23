@@ -59,7 +59,7 @@ export default function Introduction() {
             position="relative"
             zIndex={1}
           >
-            Kevin Dong.
+            Kevin Dong
           </Heading>
         </SlideFade>
 
@@ -76,7 +76,7 @@ export default function Introduction() {
             letterSpacing="-1.6px"
           >
             <Box color="displayColor" as="span">
-              Software Engineer.
+              Pharmacy Student.
             </Box>{' '}
             A self-taught developer{' '}
             {isLargerThan800
@@ -91,12 +91,12 @@ export default function Introduction() {
           transition={{ enter: { duration: 0.4, delay: 0.9 } }}
         >
           <Text fontSize="display3" color="textSecondary">
-            🚀 Exploring opportunities and side projects.
+            🚀 Exploring opportunities in HEOR and medical affairs
             <br />
             <Stack isInline spacing={1}>
               <Box>🎓</Box>
               <Box>
-                Currently an Informatics Student at Universitas Negeri Surabaya.
+                Currently a P4 at the University of Texas at Austin College of Pharmacy
               </Box>
             </Stack>
           </Text>
