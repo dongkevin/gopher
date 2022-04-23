@@ -59,7 +59,7 @@ export default function Introduction() {
             position="relative"
             zIndex={1}
           >
-            Abdul Rahman.
+            Kevin Dong.
           </Heading>
         </SlideFade>
 
