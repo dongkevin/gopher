@@ -17,8 +17,8 @@ export default function Projects({ projects }) {
     <>
       <Container>
         <Head>
-          <title>Abdul Rahman - Software Engineer</title>
-          <meta name="title" content="Abdul Rahman - Software Engineer" />
+          <title>Kevin Dong</title>
+          <meta name="title" content="Kevin Dong" />
           <meta
             name="description"
             content="Software Engineer based in Indonesia, an undergraduate student at Universitas Negeri Surabaya."
