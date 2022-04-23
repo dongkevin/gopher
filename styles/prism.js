@@ -39,7 +39,7 @@ const prismBaseTheme = css`
   }
   :not(pre) > code[class*='language-'],
   pre[class*='language-'] {
-    background: ${theme.colors.gray[50]};
+    background: ${theme.colors.gray[500]};
     border: 1px solid ${theme.colors.gray[200]};
     border-radius: ${theme.radii.lg};
   }
