@@ -8,7 +8,7 @@ const prismBaseTheme = css`
   code[class*='language-'],
   pre[class*='language-'] {
     color: ${theme.colors.gray[800]};
-    background: none;
+    background: ${theme.colors.gray[80]};
     font-family: ${theme.fonts.mono};
     font-size: ${theme.fontSizes[2]};
     text-align: left;
