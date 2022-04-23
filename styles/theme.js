@@ -22,7 +22,7 @@ const fluidType = (minFont, maxFont) => {
 }
 
 const colors = {
-  background: '#12141D',
+  background: '#14365D',
   secondary: '#080808',
   complement: '#FA934F',
   displayColor: '#FFFFFF',
